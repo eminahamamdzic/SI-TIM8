@@ -41,14 +41,14 @@
 
 ### Početne odgovornosti
 
-|Funkcija|Ključne aktivnosti|
-|Koordinacija sprinta|Praćenje rokova, organizacija sastanaka, uklanjanje blokada.|
-|Backlog i zahtjevi|Komunikacija sa "klijentom", definisanje detalja funkcionalnosti.|
-|Arhitektura i tehnika|Dizajn baze podataka (ER model), odabir frameworka.|
-|Testiranje i kvalitet|Provjerava ispravnosti postavljenih funkcionalnosti, način njihovog rada|
-|Dokumentacija|Ažuriranje tehničke dokumentacije i korisničkog uputstva.|
-
-###Pravila u slučaju neispunjavanja obaveza
+| Funkcija               | Ključne aktivnosti                                                                 |
+|----------------------|------------------------------------------------------------------------------------|
+| Koordinacija sprinta | Praćenje rokova, organizacija sastanaka, uklanjanje blokada.                      |
+| Backlog i zahtjevi   | Komunikacija sa "klijentom", definisanje detalja funkcionalnosti.                 |
+| Arhitektura i tehnika| Dizajn baze podataka (ER model), odabir frameworka.                               |
+| Testiranje i kvalitet| Provjera da li rezervacije rade ispravno (nema preklapanja).                      |
+| Dokumentacija        | Ažuriranje tehničke dokumentacije i korisničkog uputstva.                          |
+### Pravila u slučaju neispunjavanja obaveza
 
 -Prvo upozorenje: Usmena opomena na internom sastanku tima uz reviziju roka za taj zadatak.
 -Drugo upozorenje: Pismeno upozorenje putem e-maila/poruke, uz obavezu nadoknade propuštenog u roku od 48 sati.
