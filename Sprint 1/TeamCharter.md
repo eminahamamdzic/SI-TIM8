@@ -1,14 +1,8 @@
 # Team Charter
 
+### Naziv tima: TIM 8
 
-
-#### Naziv tima: TIM 8
-
-
-
-#### Članovi tima:
-
-
+### Članovi tima:
 
 |Ime i prezime|Broj indeksa|Kontakt|
 |-|-|-|
@@ -21,33 +15,29 @@
 |Merima Glušac|19386|mglusac1@etf.unsa.ba|
 |Refik Mujčinović|19134|rmujcinovi1@etf.unsa.ba|
 
-
-
-#### Način komunikacije:
+### Način komunikacije:
 
 * Primarni kanal komunikacije: Viber
 * Očekivano vrijeme odgovora: Maksimalno 4 sata tokom radnog dana (09:00 - 20:00h). Vikendom po dogovoru.
 * Način zakazivanja sastanaka: Putem Google Calendar-a. Poziv se šalje minimalno 24 sata ranije
+  
+### Radna pravila tima:
 
-#### 
-
-#### Radna pravila tima:
-
-* Kada i kako tim radi zajedno: Sastanci se održavaju minimalno jednom sedmično, najčešće srijedom putem Google Meet-a
-* Dogovaranje i praćenje zadataka: Koristimo GitHub. Svaki zadatak  mora imati definisan "Definition of Done" (šta tačno znači da je gotov).
-* Dokumentovanje odluka: Sve ključne odluke o arhitekturi ili promjeni zahtjeva zapisuju se u zajednički Google Doc pod nazivom "Decision Log".
+* Kada i kako tim radi zajedno: Sastanci se održavaju minimalno jednom sedmično, najčešće subotom putem Google Meet-a
+* Dogovaranje i praćenje zadataka: Koristimo GitHub. Svaki zadatak  mora imati definisan "Definition of Done".
+* Dokumentovanje odluka: Sve ključne odluke o arhitekturi ili promjeni zahtjeva zapisuju se u zajednički file SprintLog.md.
 * Rješavanje neslaganja: Glasanje prostom većinom. U slučaju izjednačenog rezultata, prednost ima član zadužen za tu specifičnu oblast. Ukoliko nesuglasice nisu riješene, kontaktiramo asistente.
-
 
 ### Početne odgovornosti
 
-| Funkcija               | Ključne aktivnosti                                                                 |
-|----------------------|------------------------------------------------------------------------------------|
+| Funkcija             | Ključne aktivnosti                                                                |
+|----------------------|-----------------------------------------------------------------------------------|
 | Koordinacija sprinta | Praćenje rokova, organizacija sastanaka, uklanjanje blokada.                      |
 | Backlog i zahtjevi   | Komunikacija sa "klijentom", definisanje detalja funkcionalnosti.                 |
-| Arhitektura i tehnika| Dizajn baze podataka (ER model), odabir frameworka.                               |
+| Arhitektura i tehnika| Dizajn baze podataka, odabir frameworka.                                          |
 | Testiranje i kvalitet| Provjera da li rezervacije rade ispravno (nema preklapanja).                      |
-| Dokumentacija        | Ažuriranje tehničke dokumentacije i korisničkog uputstva.                          |
+| Dokumentacija        | Ažuriranje tehničke dokumentacije i korisničkog uputstva.                         |
+
 ### Pravila u slučaju neispunjavanja obaveza
 
 * Prvo upozorenje: Usmena opomena na internom sastanku tima uz reviziju roka za taj zadatak.
