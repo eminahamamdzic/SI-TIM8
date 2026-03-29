@@ -24,7 +24,7 @@
 ### Radna pravila tima:
 
 * Kada i kako tim radi zajedno: Sastanci se održavaju minimalno jednom sedmično, najčešće subotom putem Google Meet-a
-* Dogovaranje i praćenje zadataka: Koristimo GitHub. Svaki zadatak  mora imati definisan "Definition of Done".
+* Dogovaranje i praćenje zadataka: Koristimo GitHub. Svaki zadatak  mora imati definisane zadatke za svakog člana tima.
 * Dokumentovanje odluka: Sve ključne odluke o arhitekturi ili promjeni zahtjeva zapisuju se u zajednički file SprintLog.md.
 * Rješavanje neslaganja: Glasanje prostom većinom. U slučaju izjednačenog rezultata, prednost ima član zadužen za tu specifičnu oblast. Ukoliko nesuglasice nisu riješene, kontaktiramo asistente.
 
