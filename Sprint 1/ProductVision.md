@@ -13,6 +13,8 @@ U postojećim rješenjima upravljanje opremom često se vrši putem Excel tabela
 - nejasnog statusa opreme (ispravna / neispravna)  
 - nedostatka kontrole i centralizacije podataka
 
+Ovi problemi uzrokuju gubitak vremena, smanjuju efikasnost rada i negativno utiču na izvođenje nastavnih i istraživačkih aktivnosti.
+
 ---
 
 ## Ciljni korisnici
