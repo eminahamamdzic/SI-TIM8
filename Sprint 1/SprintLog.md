@@ -1,7 +1,7 @@
 ### Sprint Goal
 
 ## Sprint 1
-###Ciljevi sprinta
+### Ciljevi sprinta
  *  Upoznavanje tima s temom
  *  Organizacija sastanaka
  *  Određivanje osnovnih funkcionalnosti projekta
