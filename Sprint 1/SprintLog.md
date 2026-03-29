@@ -1,9 +1,14 @@
 ### Sprint 1
 
+####Ciljevi sprinta
+ *  Upoznavanje tima s temom
+ *  Organizacija sastanaka
+ *  Određivanje osnovnih funkcionalnosti projekta
+ *  Evidentiranje potencijalnih ograničenja
+ *  Finaliziranje potrebnih dokumenata
 
 
 Raspodjela zadataka
-
 
 
 |Deliverables|Članovi tima|
