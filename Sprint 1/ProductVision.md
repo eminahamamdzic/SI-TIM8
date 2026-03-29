@@ -11,4 +11,38 @@ U postojećim rješenjima upravljanje opremom često se vrši putem Excel tabela
 - čestih grešaka i neusklađenosti  
 - duplih rezervacija i konflikata među korisnicima  
 - nejasnog statusa opreme (ispravna / neispravna)  
-- nedostatka kontrole i centralizacije podataka  
+- nedostatka kontrole i centralizacije podataka
+
+---
+
+## Ciljni korisnici
+
+### Studenti
+- koriste opremu i vrše rezervacije  
+- potreban brz i jednostavan pristup  
+- uvid u dostupnost i ispravnost opreme  
+
+### Profesori i asistenti
+- odobravaju korištenje opreme  
+- nadgledaju upotrebu i sigurnost  
+- kontrola nad rezervacijama  
+
+### Laboratorijski tehničari
+- održavanje opreme  
+- praćenje statusa (ispravnost, dostupnost)  
+
+### Administratori sistema
+- upravljanje korisnicima i sistemom  
+- osiguravanje stabilnosti i sigurnosti  
+- definisanje i kontrola pravila
+
+---
+
+## Vrijednost sistema
+
+- jasan i centralizovan pregled opreme  
+- stalni uvid u dostupnost i status  
+- smanjenje grešaka i konflikata (npr. duple rezervacije)  
+- bolja organizacija rada u laboratoriji  
+- optimalnije iskorištavanje opreme  
+- pouzdanije izvođenje nastavnih i istraživačkih aktivnosti  
